@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ak1675/" target="_blank"> Akshay Desai </a> </h1>
+<h1 align="center">👋 Hi, I'm <a href="https://akshay-portfolio-phi.vercel.app/" target="_blank"> Akshay Desai </a> </h1>
 
 
 <h3 align="left">Connect with me:</h3>
